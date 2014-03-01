@@ -39,7 +39,7 @@ return array(
 	|
 	*/
 
-	'timezone' => 'UTC',
+	'timezone' => 'Asia/Colombo',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -107,6 +107,24 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 
+
+        'Jhcss\Acl\AclServiceProvider',
+        'Jhcss\Auth\AuthServiceProvider',
+        'Jhcss\Base\BaseServiceProvider',
+        'Jhcss\Component\ComponentServiceProvider',
+        'Jhcss\Facile\FacileServiceProvider',
+        'Jhcss\Html\HtmlServiceProvider',
+        'Jhcss\Installer\InstallerServiceProvider',
+        'Jhcss\Language\LanguageServiceProvider',
+        'Jhcss\Memory\MemoryServiceProvider',
+        'Jhcss\Model\ModelServiceProvider',
+        'Jhcss\Module\ModuleServiceProvider',
+        'Jhcss\Notifier\NotifierServiceProvider',
+        'Jhcss\Plugin\PluginServiceProvider',
+        'Jhcss\Theme\ThemeServiceProvider',
+        'Jhcss\Translation\TranslationServiceProvider',
+//        'Jhcss\\ServiceProvider',
+//        'Jhcss\\ServiceProvider',
 	),
 
 	/*
