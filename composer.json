@@ -1,7 +1,7 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "jhcict/jhcss",
+	"description": "Jaffna Hindu College School System",
+	"keywords": ["jhcss","schoolsystem"],
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.1.*",
